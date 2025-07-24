@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hashid31.github.io/my-portfolio/",
+  "homepage": "https://hashid31.github.io/mohammad-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
