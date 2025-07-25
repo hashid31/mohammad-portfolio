@@ -1,5 +1,5 @@
 import { useState } from "react";
-import {cn} from "@/lib/utils"
+import {cn} from "../lib/utils"
 
 const my_skills = [
     {name:"HTML/CSS",level:95,category:"frontend"},

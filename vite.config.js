@@ -8,8 +8,11 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   resolve: {
     alias:{
-        base: '/mohammad-portfolio/', 
+        base: "https://hashid31.github.io/mohammad-portfolio/", 
       "@": path.resolve(__dirname, "./src")
     }
+  },
+  build: {
+    outDir : "../dist",
   }
 })
