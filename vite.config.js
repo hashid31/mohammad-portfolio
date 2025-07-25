@@ -11,8 +11,5 @@ export default defineConfig({
         base: "https://hashid31.github.io/mohammad-portfolio/", 
       "@": path.resolve(__dirname, "./src")
     }
-  },
-  build: {
-    outDir : "../dist",
   }
 })
